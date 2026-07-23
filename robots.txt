@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ansh-shrivastav.vercel.app/sitemap.xml
